@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1017108580901",
+    "project_id": "indistudent-277b1",
+    "storage_bucket": "indistudent-277b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017108580901:android:5765d97cfe182b62fc4dcc",
+        "android_client_info": {
+          "package_name": "com.pb.indistudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017108580901-umu3sps0amg75qua1sup957vq75qgg7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pb.indistudent",
+            "certificate_hash": "068bc4a537c1c90c242eec5bfaea8ce2c2d87d4b"
+          }
+        },
+        {
+          "client_id": "1017108580901-2isbr8236slpdhfkkt1cvv7peihfnf8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1wHCrwkhcT7OR60cOhU31_PthHJFYb4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017108580901-2isbr8236slpdhfkkt1cvv7peihfnf8a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1017108580901-mref0af2not6v5hoo9sr3s16fks171ab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.indistudent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
